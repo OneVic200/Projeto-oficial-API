@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+}
+
+a{
+    text-decoration: none;
+}
+
+.nav{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+#nav_item{
+    color: white;
+    border: 1px solid white;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 20px;
+    background-color: black;
+}
+
+#temperatura{
+    color: white;
+}
+
+#buscar{
+    color: white;
+    background-color: black;
+}
+
+input{
+    color: white;
+    border-radius: 15px;
+    border: 1px solid white;
+    font-size: 20px;
+}
+
+button{
+    border: 1px solid white;    
+    width: 150px;
+    border-radius: 15px;
+}

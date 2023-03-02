@@ -1,0 +1,29 @@
+{
+    "teclado":{
+        "name": "Teclado",
+        "description": "Teclado Mecânico Gamer HyperX Alloy MKW100, RGB, Switch Red, Full Size, Layout US",
+        "price": "R$ 329,99",
+        "image": "<img src = 'img/teclado.jpg' width='100px'>"
+    },
+
+    "mouse":{
+        "name": "Mouse",
+        "description": "Mouse Gamer Razer Deathadder V2 Mini, Chroma, Optical Switch, 6 Botões, 8500DPI",
+        "price": "R$ 150,00",
+        "image": "<img src = 'img/mouse.jpg' width='100px'>"
+    },
+
+    "monitor":{
+        "name": "Monitor",
+        "description": "Monitor Gamer Husky Tempest 34' VA, Ultrawide, 144 Hz, 2K QHD, 1ms, Adaptive Sync, 95% sRGB",
+        "price": "R$ 1990,90",
+        "image": "<img src = 'img/monitor.jpg' width='100px'>"
+    },
+
+    "placa":{
+        "name": "Placa de vídeo",
+        "description": "Placa de Vídeo RTX 2060 Ventus GP OC MSI NVIDIA GeForce, 6GB GDDR6",
+        "price": "R$ 1500,90",
+        "image": "<img src = 'img/placa-de-video.jpg' width='100px'>"
+    }
+}

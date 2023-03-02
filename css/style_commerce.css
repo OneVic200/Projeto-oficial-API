@@ -1,0 +1,64 @@
+a{
+    text-decoration: none;
+}
+
+.nav{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+#nav_item{
+    color: white;
+    border: 1px solid white;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 20px;
+    background-color: black;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+.container{
+    width: 1500px;
+    height: 400px;
+    margin: 0 auto;
+    /* border: 1px solid white; */
+}
+
+.limite{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.caixa{
+    padding: 10px;
+    border: 1px solid white;
+}
+
+#imagem, #imagem2, #imagem3, #imagem4{
+    width: 50px;
+}
+
+#nome, #nome2, #nome3, #nome4{
+    font-size: 30px;
+}
+
+#preco, #preco2, #preco3, #preco4{
+    font-size: 30px;
+    color: green;
+}
+
+button{
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid white;
+}
